@@ -1,0 +1,14 @@
+Slides link:
+https://docs.google.com/presentation/d/1mCBQLtAlpT4dAfDUR_1q9E3PSEmnk7UP-BDQGADjckY/edit?usp=sharing
+
+- ready for comments - thanks for reading!
+
+
+Sources:
+•Google’s AI can see through your eyes what doctors can’t (https://medium.com/health-ai/googles-ai-can-see-through-your-eyes-what-doctors-can-t-c1031c0b3df4)
+
+•Deep Learning in Ophthalmology —How Google Did It (https://medium.com/health-ai/deep-learning-in-ophthalmology-using-128-175-retinal-images-59814e8a3f68)
+
+•Lessons learned from translating AI from development to deployment in healthcare (https://www.nature.com/articles/s41591-023-02293-9.epdf?sharing_token=fNad8yOc5LgDEohfubO_F9RgN0jAjWel9jnR3ZoTv0PKt-9ODkApp970VmItbO_8PG3GkmYecX9Pl2qnLQlJ2u4I3YOTp62ZEAgeTXPoKeJctMxV1lndXOcVH79hdFnczdbFNZI_KWiZupYDcrbpsFiYaXlELFVJdvfhSl-s_as%3D)
+
+•Google’s AI to Revolutionise Healthcare: Eye Scan to Predict Heart Disease and more (https://www.youtube.com/watch?v=yOt_uOOMKms)
